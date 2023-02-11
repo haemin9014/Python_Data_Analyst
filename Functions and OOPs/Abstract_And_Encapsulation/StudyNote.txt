@@ -1,0 +1,17 @@
+Abstraction means working with something you know how to use without knowing how it works internally.
+
+Encapsulation allows binding data and associated methods together in a unit i.e class.
+
+These principles together allows a programmer to define an interface for applications, i.e. to define all tasks the program is capable to execute and their respective input and output data.
+
+A good example is a television set. We don’t need to know the inner workings of a TV, in order to use it. All we need to know is how to use the remote control (i.e the interface for the user to interact with the TV).
+
+Direct access to data can be restricted by making required attributes or methods private, just by prefixing it's name with one or two underscores.
+
+An attribute or a method starting with:
+
+no underscores is a public one.
+
+a single underscore is private, however, still accessible from outside.
+
+double underscores is strongly private and not accessible from outside.

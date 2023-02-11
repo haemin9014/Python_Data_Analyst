@@ -1,0 +1,1 @@
+Polymorphism allows a subclass to override or change a specific behavior, exhibited by the parent class

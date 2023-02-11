@@ -1,0 +1,4 @@
+Inheritance describes is a kind of relationship between two or more classes, 
+abstracting common details into super class and storing specific ones in the subclass.
+
+To create a child class, specify the parent class name inside the pair of parenthesis, followed by it's name.
